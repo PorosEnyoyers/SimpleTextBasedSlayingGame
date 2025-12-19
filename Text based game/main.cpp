@@ -1,6 +1,5 @@
 #include <iostream>
 #include <array>
-#include <vector>
 #include <string>
 #include <string_view>
 #include "Random.h"
